@@ -4,3 +4,6 @@
 .container h1{
     font-weight: bold;
 }
+button{
+    display: block;
+}
